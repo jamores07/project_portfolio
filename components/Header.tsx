@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { links } from "@/lib/data";
 import clsx from "clsx";
 import Link from "next/link";
-import { useActiveSectionContext } from "@/context/active-section.context";
+import { useActiveSectionContext } from "@/context/active-section-context";
 
 
 
